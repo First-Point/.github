@@ -46,9 +46,7 @@ Policy: https://firstpoint.com.tr/security-policy.txt
 Repository: https://github.com/First-Point/security.txt
 Signature: https://firstpoint.com.tr/.well-known/security.txt.sig
 ```
-
 ---
 
 📬 **Contact us:** info@firstpoint.com.tr
-```
 
