@@ -4,8 +4,8 @@ We build secure, AI-powered infrastructure for the future of Web3.
 
 ## 💡 About Us
 
-**FirstPoint** is a deep-tech company focused on AI + Blockchain infrastructure.  
-We specialize in building intelligent agents, developer tools, and automation systems that prioritize **security, scalability**, and **Zero Knowledge (ZK)** privacy.
+**FirstPoint** is a deep tech company focused on AI + Blockchain infrastructure.  
+We specialize in building intelligent agents, developer tools, and automation systems that prioritize **security, scalability**, and **Zero Knowledge ** privacy.
 
 Our flagship product:  
 🌐 [CosmoHub.ai](https://cosmohub.ai) — AI agents that automate DeFi, NFTs, staking, and token operations via natural language.
