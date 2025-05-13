@@ -48,5 +48,5 @@ Signature: https://firstpoint.com.tr/.well-known/security.txt.sig
 ```
 ---
 
-📬 **Contact us:** info@firstpoint.com.tr
+📬 **Contact us:**  contact@firstpoint.com.tr
 
