@@ -10,6 +10,9 @@ We specialize in building intelligent agents, developer tools, and automation sy
 Our flagship product:  
 🌐 [CosmoHub.ai](https://cosmohub.ai) — AI agents that automate DeFi, NFTs, staking, and token operations via natural language.
 
+![image](https://github.com/user-attachments/assets/40695499-7e3b-40e6-82a6-456b362930ba)
+
+
 ## 🔗 Links
 
 - 🌍 Website: [firstpoint.com.tr](https://firstpoint.com.tr/)
