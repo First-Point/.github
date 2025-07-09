@@ -8,7 +8,7 @@ We build secure, AI-powered infrastructure for the future of Web3.
 We specialize in building intelligent agents, developer tools, and automation systems that prioritize **security, scalability**, and **Zero Knowledge** privacy.
 
 Our flagship product:  
-🌐 [CosmoHub.ai](https://cosmohub.ai) — AI agents that automate DeFi, NFTs, staking, and token operations via natural language.
+🌐 [Vexom.ai](https://vexom.ai) — AI agents that automate DeFi, NFTs, staking, and token operations via natural language.
 
 ![image](https://github.com/user-attachments/assets/40695499-7e3b-40e6-82a6-456b362930ba)
 
