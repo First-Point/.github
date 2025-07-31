@@ -10,7 +10,7 @@ We specialize in building intelligent agents, developer tools, and automation sy
 Our flagship product:  
 🌐 [Vexom.ai](https://vexom.ai) — AI agents that automate DeFi, NFTs, staking, and token operations via natural language.
 
-![image](<img width="1882" height="1020" alt="image" src="https://github.com/user-attachments/assets/d8fe6170-2264-4c89-ac85-8660a7f61fd7" />
+![image](https://github.com/user-attachments/assets/d8fe6170-2264-4c89-ac85-8660a7f61fd7
 )
 
 
