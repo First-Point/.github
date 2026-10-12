@@ -85,7 +85,6 @@ You can find our public security information and contact policies at the links b
 Contact:    https://firstpoint.com.tr/.well-known/security.txt
 Encryption: https://firstpoint.com.tr/pgp-key.txt
 Policy:     https://firstpoint.com.tr/security-policy.txt
-Repository: https://github.com/First-Point/security.txt
 ```
 
 ---
